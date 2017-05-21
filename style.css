@@ -1,0 +1,16 @@
+#topo{
+    background-color: #EEE;
+    padding: 20px;
+}
+
+#conteudo{
+    border-bottom: 1px solid #CCC;
+}
+
+#menu{
+    margin: 20px 0;
+}
+
+#rodape{
+    text-align: right;
+}
